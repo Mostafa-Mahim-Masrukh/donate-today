@@ -169,3 +169,12 @@ img.footer-image {
     margin-bottom: 20px;
     padding-bottom: 30px;
 }
+
+.slider-section{
+    
+    display: flex;
+        
+    margin: 67px 10%;
+        
+    width: 88%;
+    }
